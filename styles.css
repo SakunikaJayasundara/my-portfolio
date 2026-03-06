@@ -239,7 +239,7 @@ img {
 }
 
 :root:not(.dark-theme) .navbar {
-    background: rgba(255, 255, 255, 0.8);
+    background: rgba(76, 78, 199, 0.8);
     border-bottom: 1px solid rgba(0, 0, 0, 0.05);
 }
 
